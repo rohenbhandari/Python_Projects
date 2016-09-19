@@ -1,3 +1,6 @@
 [submodule "udacity_enron/project1/ud120-projects"]
 	path = udacity_enron/project1/ud120-projects
 	url = https://github.com/udacity/ud120-projects
+[submodule "udacity_enron/project/ud120-projects"]
+	path = udacity_enron/project/ud120-projects
+	url = https://github.com/udacity/ud120-projects
